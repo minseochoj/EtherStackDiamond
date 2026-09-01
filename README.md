@@ -1,4 +1,3 @@
-<!-- fallback_EtherStackDiamond_20260901141603_89447 -->
 
 # EtherStackDiamond
 
